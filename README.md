@@ -1,8 +1,6 @@
 # Just Shortcodes
 
-[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/just-shortcodes.svg?style=flat-square)](https://wordpress.org/plugins/just-shortcodes/)
-[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/just-shortcodes.svg?style=flat-square)](https://wordpress.org/plugins/just-shortcodes/)
-[![WordPress Tested Version](https://img.shields.io/wordpress/v/just-shortcodes.svg?style=flat-square)](https://wordpress.org/plugins/just-shortcodes/)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D%205.4-8892BF.svg?style=flat-square)](https://php.net/)
 [![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-2.0.html)
 
